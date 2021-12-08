@@ -1,0 +1,12 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "text": "lorem ipsum #dorem tags"
+    },
+    {
+      "id": 2,
+      "text": "google #cloud it's great"
+    }
+  ]
+}
